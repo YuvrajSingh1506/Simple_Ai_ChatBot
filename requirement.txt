@@ -1,0 +1,30 @@
+
+# Core LangChain Framework
+langchain
+langchain-core
+langgraph
+
+# Chat Models and Provider Integrations
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+langchain_huggingface
+
+# Text Splitting and Embeddings / Vector Search
+langchain-text-splitters
+faiss-cpu
+tiktoken
+
+# Environment and Utilities
+python-dotenv
+pydantic
+requests
+
+# PDF Loading for RAG
+pypdf
+
+# API Development
+fastapi
+uvicorn
+pip 
